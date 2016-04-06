@@ -1,5 +1,5 @@
 # Mindfire-Assignments
-Minfire Solution - Assignments 
+Minfire Solutions - Assignments 
 
 Assignment: 
 Create a simple CRUD app in Laravel before you join - 
